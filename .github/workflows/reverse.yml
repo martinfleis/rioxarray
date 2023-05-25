@@ -19,4 +19,4 @@ jobs:
                 invest-ucm-calibration
                 pyposeidon-base
                 raider-base
-            python_version: 3.9
+            python_version: 3.10
