@@ -16,3 +16,6 @@ jobs:
                 sepal-ui
                 gdptools
                 ecodata
+                invest-ucm-calibration
+                pyposeidon-base
+                raider-base
